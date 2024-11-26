@@ -17,9 +17,7 @@ In this user Do post and share infromation to others..
 
 ![posts](https://user-images.githubusercontent.com/63902621/82150973-b2695880-9877-11ea-8a93-e05d12facca5.gif)
 
-##User Profile
-![image]
-![UserProfile](https://user-images.githubusercontent.com/63902621/82150079-83ea7e00-9875-11ea-92ad-e47e7e14781e.jpg)
+
 
 
 
