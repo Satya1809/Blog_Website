@@ -58,5 +58,5 @@ Please read [CONTRIBUTING.md](https://github.com/yadavkrishna/TechBlog/contribut
 
 ## Author
 
-* **Krishna Kumar** -](https://github.com/yadavkrishna)
+* **Krishna Kumar** -](https://github.com/Satya1809)
 
